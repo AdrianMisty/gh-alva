@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>Bootstrap Example</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+</head>
+<body>
+
+<div class="jumbotron text-center">
+  <h1>Adriana's First Bootstrap Page</h1>
+  <p> my interest and pursuits</p>
+</div>
+
+<div class="container">
+  <div class="row">
+    <div class="col-sm-4">
+      <h3>App Development </h3>
+      <p> DevOps is so cool since it creates a bridge between engineering and business</p>
+      <p> Communication is very important and crucial to the improvement of ethics and techonology.</p>
+      <p> I think ethics should be a center piece in workplaces and it is a huge reason why app dev is a personal interest. This is why my experience with YearUp has been so amazing! I'm learning more about app dev and how the work enviroment is. </p>
+    </div>
+    <div class="col-sm-4">
+      <h3>Electrical Engineering</h3>
+      <p> I don't know much about engineering, but my highschool provided the resources for me to learn more about engineering.</p>
+      <p> When I took my first circuts class, I learned I had a knack for circuit design and so it became a field I wanted to pursue once I started the uni life. I figured if college is where one learns, then I wanted to learn something I knew very little about and considering its integral to every career. Hence, why I am also studying engineering along with app dev and fashion apparel.</p>
+    </div>
+    <div class="col-sm-4">
+      <h3> Fashion Apparel + Textiles </h3>
+      <p> Considering it is one of the many things my family has worked in for generations, it is not surprising it is a personal interest.</p>
+      <p> I'm hypersensitive when it comes to sense of touch and hearing, so working with textiles has been so appealing since they vary in texture and produce different sounds due to material choice.</p>
+      <p> I plan on improving on my tailoring skills and aim to the recycling of textiles for fashion apparel.</p>
+ </div>
+  </div>
+</div>
+
+</body>
+</html>
